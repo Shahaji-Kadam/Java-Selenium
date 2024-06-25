@@ -14,5 +14,3 @@ Test Automation Framework built with Selenium and Java for browser testing.
 * mvn install
 * mvn test
 
-
-##### For steps regarding building the framework, please refer to this **[blog](https://blog.bharatkammakatla.com/steps-to-build-a-selenium-java-framework-ckdsi73xg005ga9s1defhemfz)**
